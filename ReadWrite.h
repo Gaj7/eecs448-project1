@@ -1,4 +1,4 @@
-/**	
+/**
  *	Purpose: Generates file, user.txt, to keep user calendar data, and retrieve information from previous sessions
  */
 
@@ -23,7 +23,7 @@ public:
 	 * A constructor for the ReadWrite object.
 	 */
 	ReadWrite();
-	/* 
+	/*
 	 * A destructor for the ReadWrite object.
 	 */
 	~ReadWrite();
